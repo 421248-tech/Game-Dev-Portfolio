@@ -6,7 +6,7 @@
 
 ![SpaceGame2027]
 
-[Link to Source Code] (https://github.com/421248-tech/Game-Dev-Portfolio/tree/main/src/SpaceGame)  
+[Link to Source Code](https://github.com/421248-tech/Game-Dev-Portfolio/tree/main/src/SpaceGame)  
 
 ## Game Overview
 [Explain the player's goal, main challenge,
