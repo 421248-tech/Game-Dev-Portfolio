@@ -4,7 +4,7 @@
 
 ### OOP SpaceGame
 
-![SpaceGame2027]
+![SpaceGame2027](images/spacegmae02.png)
 
 [Link to Source Code](https://github.com/421248-tech/Game-Dev-Portfolio/tree/main/src/SpaceGame)  
 
